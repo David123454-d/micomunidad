@@ -1,0 +1,8 @@
+.fondo{    
+    background-image: url('../img/theme/fondo.jpeg');
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+    background-size: cover;
+    background-color: #66999;
+}
